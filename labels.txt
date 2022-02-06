@@ -1,0 +1,5 @@
+alight
+blur
+dark
+shadow
+normal
